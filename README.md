@@ -1,16 +1,15 @@
-## Hi there 👋
+### Gabor Melli
 
-<!--
-**gmelli/gmelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Creator and maintainer of the [AGET Framework](https://github.com/aget-framework) — configuration and lifecycle management for CLI-based human-AI collaborative coding agents.
 
-Here are some ideas to get you started:
+#### Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building agent governance patterns for human-AI collaboration:
+- Fleet coordination across CLI coding tools
+- Specification-based agent development
+- Shared learning systems across agent fleets
+
+#### Links
+
+- [AGET Framework](https://github.com/aget-framework) — Agent governance framework
+- [Personal Site](http://www.gabormelli.com/RKB/Gabor_Melli)
