@@ -13,3 +13,4 @@ Building agent governance patterns for human-AI collaboration:
 
 - [AGET Framework](https://github.com/aget-framework) — Agent governance framework
 - [Personal Site](http://www.gabormelli.com/RKB/Gabor_Melli)
+
