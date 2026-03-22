@@ -4,7 +4,7 @@ I build AI teams and the systems they deliver. VP of AI at [LegalOn Technologies
 
 #### What I Build
 
-**[AGET Framework](https://github.com/aget-framework)** Started as an experiment to understand the CLI agent wave. Became a framework for managing fleets of command-line AI agents. Currently at v3.9, running 20+ specialized agents. [Learn more](https://github.com/aget-framework/aget).
+**[AGET Framework](https://github.com/aget-framework)** Started as an experiment to understand the CLI agent wave. Became a framework for managing fleets of command-line AI agents. Currently at v3.10, running 30+ specialized agents. [Learn more](https://github.com/aget-framework/aget).
 
 **[GM-RKB](http://www.gabormelli.com/RKB/HomePage)** A 48,890-article research knowledge base covering AI, ML, NLP, and data science. Cited in SIGKDD and LREC.
 
