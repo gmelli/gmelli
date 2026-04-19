@@ -1,6 +1,6 @@
 ### Gabor Melli
 
-I build AI teams and the systems they deliver. VP of AI at [LegalOn Technologies](https://www.legalontech.com/), building contract intelligence systems ([we're hiring](https://www.legalontech.com/careers)). PhD. 25+ years building and leading AI organizations across gaming, e-commerce, government, finance, communications, clinical trials, and legal.
+I build AI teams and the systems they deliver. VP of AI at [LegalOn Technologies](https://www.legalontech.com/), leading AI transformation to build contract intelligence systems ([we're hiring!](https://ats.rippling.com/legalontech/jobs/9e197c4e-8899-4cb1-ab96-802c01eae112)). PhD. 25+ years building and leading AI organizations across gaming, e-commerce, government, finance, communications, clinical trials, and legal.
 
 #### What I Build
 
