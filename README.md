@@ -1,10 +1,10 @@
 ### Gabor Melli
 
-I build AI teams and the systems they deliver. Most recently VP of AI at [LegalOn Technologies](https://www.legalontech.com/), leading AI transformation to build contract intelligence systems. PhD. 25+ years building and leading AI organizations across gaming, e-commerce, government, finance, communications, clinical trials, and legal.
+I build AI teams and the systems they deliver. Founder of AGET. Most recently VP of AI at [LegalOn Technologies](https://www.legalontech.com/), where I led AI transformation to build contract intelligence systems. PhD. 25+ years building and leading AI organizations across gaming, e-commerce, government, finance, communications, clinical trials, and legal.
 
 #### What I Build
 
-**[AGET Framework](https://www.aget.dev/)** Started as an experiment to understand the CLI agent wave. Became a framework for managing fleets of command-line AI agents. Currently at v3.36.0, running 32 specialized agents. [aget.dev](https://www.aget.dev/) · [source](https://github.com/aget-framework/aget).
+**[AGET](https://www.aget.dev/)** I founded it as an experiment to understand the CLI agent wave. It became an open-source framework for governing fleets of command-line AI agents: each agent keeps its own memory, specifications and lessons, and every outward act passes review gates and a human's approval. 51 releases since Dec 2025. [aget.dev](https://www.aget.dev/) · [source](https://github.com/aget-framework/aget).
 
 **[GM-RKB](http://www.gabormelli.com/RKB/HomePage)** A 48,890-article research knowledge base covering AI, ML, NLP, and data science. Cited in SIGKDD and LREC.
 
@@ -18,4 +18,4 @@ KDD, CIKM, LREC, ICDM. 3,300+ citations. Area Chair for The Web Conference and E
 
 #### Links
 
-[gabormelli.com](http://gabormelli.com) | [Google Scholar](https://scholar.google.com/citations?user=VVmkSAYAAAAJ) | [LinkedIn](https://linkedin.com/in/melli)
+[gabormelli.com](https://gabormelli.com) | [Google Scholar](https://scholar.google.com/citations?user=VVmkSAYAAAAJ) | [LinkedIn](https://linkedin.com/in/melli)
