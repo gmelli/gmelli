@@ -1,6 +1,6 @@
 ### Gabor Melli
 
-I build AI teams and the systems they deliver. Founder of AGET. Most recently VP of AI at [LegalOn Technologies](https://www.legalontech.com/), where I led AI transformation to build contract intelligence systems. PhD. 25+ years building and leading AI organizations across gaming, e-commerce, government, finance, communications, clinical trials, and legal.
+I build human-AI collaboration: AI teams and the systems they deliver. Founder of AGET. PhD. 25+ years building and leading AI organizations at Sony, AT&T, Medable, LegalOn and others, across gaming, e-commerce, government, finance, communications, clinical trials, and legal.
 
 #### What I Build
 
